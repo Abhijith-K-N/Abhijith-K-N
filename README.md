@@ -1,52 +1,95 @@
-# Hey there 👋
+# 👋 Hi, I'm Abhijith K N
 
-I'm Abhijith — a Computer Science student focused on building scalable web apps and mastering Data Structures & Algorithms.
-
-I like turning ideas into real systems and solving problems efficiently ⚡
+💻 Full Stack Developer | 🧠 DSA Enthusiast | 🚀 Tech Explorer  
 
 ---
 
-## 🧠 DSA & Competitive Programming
-
+## 🌐 Socials:
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/newer_me?theme=light&ext=heatmap&width=1000" />
+  <a href="https://www.linkedin.com/in/abhijith-k-n-0813312a3/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:abhijithkn2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
-- 🟠 LeetCode: https://leetcode.com/u/newer_me/  
-- 🍛 CodeChef: https://www.codechef.com/users/newer_me  
-- 📘 GeeksforGeeks: https://www.geeksforgeeks.org/profile/abhiverse  
+---
 
-- Solved **400+ problems** across platforms  
-- Ranked within **top 300,000 globally on LeetCode**  
+## 🧠 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/Abhijith_K_N/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://www.codechef.com/users/newer_me">
+    <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/abhiverse?tab=overview">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks" />
+  </a>
+</p>
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages**  
-Java • JavaScript • TypeScript • C++  
+### 🧾 Languages
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
-**Frontend**  
-React.js • Next.js • Tailwind CSS  
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-teal?style=for-the-badge&logo=tailwind-css)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js)
 
-**Backend**  
-Node.js • Express.js  
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express)
 
-**Databases**  
-Firebase • MongoDB  
+### 🗄️ Database / Services
+![Supabase](https://img.shields.io/badge/Supabase-green?style=for-the-badge&logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
 
-**Tools**  
-Git • GitHub • Vercel • VS Code  
+### 🛠️ Tools
+![Vite](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite)
+![Figma](https://img.shields.io/badge/Figma-orange?style=for-the-badge&logo=figma)
 
 ---
 
-## 🎓 Education
+## 🧠 LeetCode Stats
 
-- B.E. Computer Science, Dayananda Sagar College of Engineering (2027)  
-- CGPA: 8.28  
-
-
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Abhijith_K_N?theme=tokyonight&ext=heatmap" />
+</div>
 
 ---
 
-> Code. Optimize. Scale. Repeat. 🚀
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhijith-K-N&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith-K-N&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🚀 About Me
+- 🔭 Building full stack web apps  
+- 🌱 Learning advanced DSA  
+- ⚡ Exploring modern web technologies  
+- 🎯 Goal: Crack top product-based companies  
+
+---
+
+## 🔥 Fun Zone
+```diff
++ Code. Debug. Repeat.
+! Eat. Sleep. LeetCode.
