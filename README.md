@@ -1,95 +1,55 @@
-# 👋 Hi, I'm Abhijith K N
+# Hey there 👋
 
-💻 Full Stack Developer | 🧠 DSA Enthusiast | 🚀 Tech Explorer  
+I'm Abhijith — a Computer Science student and developer focused on building scalable web applications and solving problems using Data Structures & Algorithms.
+
+If I get an idea, I try to build and ship it 🚀
 
 ---
 
-## 🌐 Socials:
+### 🧠 Core Focus
+- Data Structures & Algorithms (active problem solving)
+- Full-stack web development
+- Writing clean, scalable, and efficient code
+
+---
+
+### 💻 Tech Stack
+- Languages: Java, JavaScript, TypeScript, C++
+- Frontend: React.js, Next.js, Tailwind CSS
+- Backend: Node.js, Express.js
+- Databases: Firebase, MongoDB
+- Tools: Git, GitHub, Vercel, VS Code
+
+---
+
+### 📊 DSA Progress
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhijith-k-n-0813312a3/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:abhijithkn2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
+  <img src="https://leetcard.jacoblin.cool/newer_me?theme=forest&ext=heatmap&border=2&radius=10" />
 </p>
 
----
-
-## 🧠 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/Abhijith_K_N/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-  <a href="https://www.codechef.com/users/newer_me">
-    <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/abhiverse?tab=overview">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks" />
-  </a>
-</p>
+- Ranked among top 300,000 users globally on LeetCode  
+- 400+ problems solved  
+- Consistently practicing problem solving  
 
 ---
 
-## 💻 Tech Stack
-
-### 🧾 Languages
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-teal?style=for-the-badge&logo=tailwind-css)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express)
-
-### 🗄️ Database / Services
-![Supabase](https://img.shields.io/badge/Supabase-green?style=for-the-badge&logo=supabase)
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
-
-### 🛠️ Tools
-![Vite](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite)
-![Figma](https://img.shields.io/badge/Figma-orange?style=for-the-badge&logo=figma)
+### 🌐 Profiles
+- GitHub: https://github.com/Abhijith-K-N  
+- LinkedIn: https://www.linkedin.com/in/abhijith-k-n  
+- LeetCode: https://leetcode.com/u/newer_me/
 
 ---
 
-## 🧠 LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Abhijith_K_N?theme=tokyonight&ext=heatmap" />
-</div>
+### 🎓 Education
+- B.E. Computer Science, Dayananda Sagar College of Engineering (2027) — CGPA: 8.28  
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhijith-K-N&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith-K-N&layout=compact&theme=tokyonight" />
-
-</div>
+### ⚡ Extra
+- Event Management member at ByteXync (Technical Club)  
+- Strong interest in system design and scalable architectures (learning phase)  
 
 ---
 
-## 🚀 About Me
-- 🔭 Building full stack web apps  
-- 🌱 Learning advanced DSA  
-- ⚡ Exploring modern web technologies  
-- 🎯 Goal: Crack top product-based companies  
-
----
-
-## 🔥 Fun Zone
-```diff
-+ Code. Debug. Repeat.
-! Eat. Sleep. LeetCode.
+> Consistency > Motivation ⚡
