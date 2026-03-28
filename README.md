@@ -8,14 +8,16 @@ I like turning ideas into real systems and solving problems efficiently ⚡
 
 ## 🧠 DSA & Competitive Programming
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/newer_me?theme=dark&ext=heatmap)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/newer_me?theme=light&ext=heatmap&width=1000" />
+</p>
 
 - 🟠 LeetCode: https://leetcode.com/u/newer_me/  
 - 🍛 CodeChef: https://www.codechef.com/users/newer_me  
 - 📘 GeeksforGeeks: https://www.geeksforgeeks.org/profile/abhiverse  
 
+- Solved **400+ problems** across platforms  
 - Ranked within **top 300,000 globally on LeetCode**  
-- Consistent problem solver across platforms  
 
 ---
 
@@ -38,30 +40,12 @@ Git • GitHub • Vercel • VS Code
 
 ---
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhijith-K-N&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Abhijith-K-N&theme=radical)
-
----
-
-## 🌐 Connect
-
-- GitHub: https://github.com/Abhijith-K-N  
-- LinkedIn: https://www.linkedin.com/in/abhijith-k-n  
-
----
-
 ## 🎓 Education
+
 - B.E. Computer Science, Dayananda Sagar College of Engineering (2027)  
 - CGPA: 8.28  
 
----
 
-## ⚡ Additional
-- Event Management Member @ ByteXync (Technical Club)  
-- Exploring system design & scalable architectures  
 
 ---
 
