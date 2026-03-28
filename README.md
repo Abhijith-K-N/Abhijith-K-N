@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**Abhijith-K-N/Abhijith-K-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Abhi, a Computer Science student.
 
-Here are some ideas to get you started:
+I focus on building full-stack applications and solving problems using Data Structures & Algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 What I do
+- Full-stack development (React, Next.js, Supabase)
+- Strong foundation in Data Structures & Algorithms
+- Writing clean, scalable, and efficient code
+
+---
+
+### 🎯 Current Focus
+- DSA for coding interviews  
+- Building real-world projects  
+- Improving system design basics  
+
+---
+
+### ⚡ Fun Fact
+Consistency > Motivation 🚀
