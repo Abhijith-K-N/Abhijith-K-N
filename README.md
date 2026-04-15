@@ -52,28 +52,32 @@
 
 ### 💻 Technology Stack
 
-[![Java](https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif?cid=ecf05e47&rid=giphy.gif&ct=s)](https://www.java.com)
-[![JavaScript](https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org/)
-[![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)](https://cplusplus.com)
-[![React](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=ecf05e47&rid=giphy.gif&ct=s)](https://reactjs.org/)
-[![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg)](https://nextjs.org/)
-[![Tailwind CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg)](https://tailwindcss.com/)
-[![Node.js](https://user-images.githubusercontent.com/43292234/179796795-66b680c9-89db-4199-9fa7-336bc4aecd7b.gif)](https://nodejs.org/)
-[![Express.js](https://media.giphy.com/media/wMGYnEaMonNRe/giphy.gif?cid=ecf05e47&rid=giphy.gif&ct=g)](https://expressjs.com/)
-[![MongoDB](https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif?cid=ecf05e47&rid=giphy.gif&ct=s)](https://www.mongodb.com/)
-[![Firebase](https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif?cid=ecf05e47&rid=giphy.gif&ct=s)](https://firebase.google.com/)
-[![Git](https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=ecf05e47&rid=giphy.gif&ct=s)](https://git-scm.com/)
-[![GitHub](https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp)](https://github.com/)
-[![VS Code](https://media.giphy.com/media/IdyAQJVN2kVZhxwUM9/200.webp)](https://code.visualstudio.com/)
-[![Vercel](https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg)](https://vercel.com/)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="36" height="36"/>
+</p>
 
 ![wave](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### 📬 Connect With Me
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/abhijith-k-n)
-[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/u/newer_me/)
-[![GitHub](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg)](https://github.com/Abhijith-K-N)
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhijith-k-n"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30"/></a>
+  <a href="https://leetcode.com/u/newer_me/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" height="30"/></a>
+  <a href="https://github.com/Abhijith-K-N"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="30" height="30"/></a>
+</p>
 
 ![wave](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
