@@ -1,33 +1,43 @@
 ![wave](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b3/26/51/b32651cd8ca44b939a1bee41a7f103c.gif" width="400"/>
+  <img src="https://camo.githubusercontent.com/d285d770d9c775fdb9795a5ad816ac7b3622c5fbb324f5b379adf5ae11a2bd97/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62332f32362f35312f62333236353137636438636134346239333961316265653431613766313033632e676966" width="1000"/>
 </p>
 
 ![wave](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-### Hello Fellow < Coders / >! 👋
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Abhijith-K-N&style=for-the-badge)](https://github.com/Abhijith-K-N)
+<h1 align="center">
+  👨‍💻 Hello Fellow &lt; Coders / &gt;! 👋
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3500&color=%2338C2FF&size=40&height=130&width=800&lines=Hey!+I'm+Abhijith+%3C;Computer+Science+Student;Full-Stack+Developer;DSA+Enthusiast;Building+and+Shipping+Ideas+🚀;Welcome+to+my+profile!" />
+  <a href="https://github.com/Abhijith-K-N">
+    <img src="https://komarev.com/ghpvc/?username=Abhijith-K-N&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  </a>
 </p>
 
-![wave](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Hey+👋,+I'm+Abhijith;💻+Computer+Science+Student;🚀+Full-Stack+Developer;🧠+DSA+Enthusiast;⚡+Building+and+Shipping+Ideas;Welcome+to+my+GitHub+Profile!" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
+</p>
+
+---
 
 ### 🧠 About Me
 
-- 🎓 B.E. Computer Science @ **Dayananda Sagar College of Engineering**, Bangalore (2027) — CGPA: **8.28**
+- 🎓 B.E. Computer Science @ **Dayananda Sagar College of Engineering**, Bangalore (2027)
 - 🔭 Focused on building **scalable full-stack web apps** and solving problems with **DSA**
 - 💡 If I get an idea, I try to **build and ship it** 🚀
 - 🏗️ Currently learning **System Design** and scalable architectures
 - ⚡ Member of **ByteXync** (Technical Club) — Event Management
-- 📫 Reach me at: [linkedin.com/in/abhijith-k-n](https://www.linkedin.com/in/abhijith-k-n)
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/abhijith-k-n)
 
 > *Consistency > Motivation ⚡*
 
-![wave](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+---
 
 ### 📊 DSA Progress
 
@@ -39,45 +49,47 @@
 - ✅ **400+ problems** solved
 - 🔄 Consistently practicing problem solving
 
-![wave](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+---
 
 ### 📈 Contribution Statistics
 
-[![Abhijith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhijith-K-N&show_icons=true&theme=blueberry&hide_border=true)](https://github.com/Abhijith-K-N)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhijith-K-N&theme=blueberry&hide_border=true)](https://github.com/Abhijith-K-N)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhijith-K-N&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijith-K-N&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhijith-K-N&theme=tokyo-night)](https://github.com/Abhijith-K-N)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijith-K-N&theme=tokyo-night" />
+</p>
 
-![wave](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+---
 
 ### 💻 Technology Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="36" height="36"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="36"/>
 </p>
 
-![wave](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+---
 
 ### 📬 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/abhijith-k-n"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30"/></a>
-  <a href="https://leetcode.com/u/newer_me/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" height="30"/></a>
-  <a href="https://github.com/Abhijith-K-N"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="30" height="30"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhijith-k-n"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/></a>
+  <a href="https://leetcode.com/u/newer_me/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30"/></a>
+  <a href="https://github.com/Abhijith-K-N"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="30"/></a>
 </p>
-
-![wave](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
